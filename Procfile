@@ -1,1 +1,1 @@
-web:npx json-server --watch db.json --port 9999
+web:npx json-server --watch db.json --port 8000
